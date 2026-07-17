@@ -8,10 +8,6 @@
 
 I build practical software for real-world workflows, from lightweight Windows tools to full-stack management platforms.
 
-Tôi phát triển các sản phẩm phần mềm thực tế, từ công cụ Windows nhẹ đến những nền tảng quản lý full-stack.
-
-[English](#english) · [Tiếng Việt](#tiếng-việt) · [Projects](#featured-projects)
-
 [![GitHub](https://img.shields.io/badge/GitHub-PhamNhatHoang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhamNhatHoang)
 [![Website](https://img.shields.io/badge/Website-cloudvpsviet.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudvpsviet.com)
 [![Location](https://img.shields.io/badge/Location-Vietnam-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -20,9 +16,7 @@ Tôi phát triển các sản phẩm phần mềm thực tế, từ công cụ W
 
 ---
 
-## English
-
-### About me
+## About me
 
 - I develop **desktop applications**, **web platforms**, and **automation tools**.
 - My current focus is on **C#/.NET**, **Java/Spring Boot**, and **Next.js/TypeScript**.
@@ -38,27 +32,6 @@ Tôi phát triển các sản phẩm phần mềm thực tế, từ công cụ W
 | Web platforms | Customer portals, administration systems, authentication and business workflows |
 | Automation | Repetitive-task reduction, account processing and system utilities |
 | Management systems | Structured data, role-based workflows and straightforward operation |
-
-## Tiếng Việt
-
-### Giới thiệu
-
-- Tôi phát triển **ứng dụng desktop**, **nền tảng web** và **công cụ tự động hóa**.
-- Công nghệ tập trung hiện tại là **C#/.NET**, **Java/Spring Boot** và **Next.js/TypeScript**.
-- Tôi quan tâm đến các phần mềm Windows nhẹ, phù hợp với VPS và máy cấu hình thấp.
-- Tôi ưu tiên giao diện dễ sử dụng, kiến trúc dễ bảo trì và khả năng vận hành ổn định.
-- Tôi thường học và cải thiện kỹ năng thông qua những dự án có tính ứng dụng thực tế.
-
-### Định hướng phát triển
-
-| Lĩnh vực | Mục tiêu |
-| --- | --- |
-| Ứng dụng desktop | Công cụ Windows nhẹ, tiết kiệm tài nguyên, hỗ trợ Native AOT và giao diện trực quan |
-| Nền tảng web | Cổng khách hàng, hệ thống quản trị, xác thực và quy trình nghiệp vụ |
-| Tự động hóa | Giảm thao tác lặp lại, xử lý dữ liệu hàng loạt và tiện ích hệ thống |
-| Hệ thống quản lý | Dữ liệu có tổ chức, phân quyền rõ ràng và dễ vận hành |
-
----
 
 ## Technology stack
 
@@ -97,41 +70,31 @@ Tôi phát triển các sản phẩm phần mềm thực tế, từ công cụ W
 
 ### [VPS Manager](https://github.com/PhamNhatHoang/vps-manager)
 
-> **EN:** A lightweight Windows application for VPS administration, resource monitoring, system configuration, tool installation, and login history.
->
-> **VI:** Ứng dụng Windows nhẹ dùng để quản trị VPS, theo dõi tài nguyên, cấu hình hệ thống, cài đặt công cụ và xem lịch sử đăng nhập.
+> A lightweight Windows application for VPS administration, resource monitoring, system configuration, tool installation, and login history.
 
 `C#` `.NET 10` `Avalonia UI` `Native AOT` `Windows`
 
 ### [CineGo](https://github.com/PhamNhatHoang/cinego)
 
-> **EN:** An online cinema management and ticket-booking platform for customers, staff, and administrators.
->
-> **VI:** Hệ thống quản lý và đặt vé xem phim trực tuyến dành cho khách hàng, nhân viên và quản trị viên.
+> An online cinema management and ticket-booking platform for customers, staff, and administrators.
 
 `Next.js` `TypeScript` `Java` `Spring Boot` `MySQL`
 
 ### [Pet Shop Management System](https://github.com/PhamNhatHoang/pet-shop-management-system)
 
-> **EN:** An e-commerce and management platform for pets, products, users, orders, payments, and store operations.
->
-> **VI:** Nền tảng thương mại điện tử và quản lý thú cưng, sản phẩm, người dùng, đơn hàng, thanh toán và hoạt động cửa hàng.
+> An e-commerce and management platform for pets, products, users, orders, payments, and store operations.
 
 `Java 17` `Spring Boot` `SQL Server` `Thymeleaf` `Maven`
 
 ### [Quiz Management System](https://github.com/PhamNhatHoang/quiz-management-system)
 
-> **EN:** A single-page quiz and learning website backed by a lightweight JSON Server API.
->
-> **VI:** Website học tập và làm bài trắc nghiệm dạng SPA, sử dụng JSON Server làm API dữ liệu.
+> A single-page quiz and learning website backed by a lightweight JSON Server API.
 
 `AngularJS` `Bootstrap` `JavaScript` `JSON Server`
 
 ### [Account File Generator](https://github.com/PhamNhatHoang/account-file-generator)
 
-> **EN:** A browser-based utility for creating and converting structured account lists without a backend.
->
-> **VI:** Tiện ích chạy trực tiếp trên trình duyệt để tạo và chuyển đổi danh sách tài khoản có cấu trúc mà không cần backend.
+> A browser-based utility for creating and converting structured account lists without a backend.
 
 `HTML` `CSS` `JavaScript` `FileReader API`
 
@@ -149,13 +112,11 @@ Tôi phát triển các sản phẩm phần mềm thực tế, từ công cụ W
 
 Open to discussing software projects, practical automation, and system-management ideas.
 
-Sẵn sàng trao đổi về các dự án phần mềm, tự động hóa và công cụ quản trị hệ thống.
-
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhamNhatHoang)
 [![CloudVPSViet](https://img.shields.io/badge/CloudVPSViet-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudvpsviet.com)
 
 <br />
 
-<sub>Built with care by Phạm Nhật Hoàng · Cảm ơn bạn đã ghé thăm!</sub>
+<sub>Built with care by Phạm Nhật Hoàng · Thanks for visiting!</sub>
 
 </div>
