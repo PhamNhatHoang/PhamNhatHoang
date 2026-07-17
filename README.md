@@ -112,6 +112,7 @@ I build practical software for real-world workflows, from lightweight Windows to
 
 Open to discussing software projects, practical automation, and system-management ideas.
 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhamNhatHoang)
 [![Profile views](https://komarev.com/ghpvc/?username=PhamNhatHoang&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/PhamNhatHoang)
 [![CloudVPSViet](https://img.shields.io/badge/CloudVPSViet-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudvpsviet.com)
 
