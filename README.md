@@ -4,11 +4,11 @@
 
 # Hi, I'm NoxWoang 👋
 
-### Software Developer · Desktop · Web · Automation
+### Software Developer · Desktop · Full-stack Web · Automation
 
 I turn practical ideas into lightweight tools and full-stack applications.
 
-[![Website](https://img.shields.io/badge/cloudvpsviet.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudvpsviet.com)
+[![Website](https://img.shields.io/badge/cloudsun.vn-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudsun.vn)
 [![Profile views](https://komarev.com/ghpvc/?username=PhamNhatHoang&label=Profile%20views&color=2563EB&style=for-the-badge)](https://github.com/PhamNhatHoang)
 
 </div>
@@ -19,9 +19,9 @@ I turn practical ideas into lightweight tools and full-stack applications.
 
 - 💻 Building **Windows desktop tools**, **full-stack web platforms**, and **automation utilities**.
 - 🚀 Currently focused on **C# / .NET**, **Java / Spring Boot**, and **Next.js / TypeScript**.
-- ⚡ Interested in lightweight software, Native AOT, maintainable architecture, and reliable workflows.
+- ⚡ Interested in lightweight software, Native AOT, secure system tooling, and maintainable architecture.
 - 🌱 Learning by shipping practical products and improving them through real-world use.
-- 📍 Based in Vietnam.
+- 📍 Thu Duc, Ho Chi Minh City, Vietnam.
 
 ## Tech stack
 
@@ -38,21 +38,23 @@ I turn practical ideas into lightweight tools and full-stack applications.
 
 **Frameworks & platforms**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square&logo=avaloniaui&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=flat-square&logo=avaloniaui&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Data & tooling**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -62,12 +64,23 @@ I turn practical ideas into lightweight tools and full-stack applications.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**CloudVPSViet Manager**](https://github.com/PhamNhatHoang/vps-manager) | Lightweight Windows VPS administration, monitoring, security, tool installation, and Telegram alerts. | `C#` `.NET 10` `Avalonia UI` `Native AOT` |
-| [**CineGo**](https://github.com/PhamNhatHoang/cinego) | Full-stack cinema discovery, seat booking, ticketing, check-in, and administration platform. | `Next.js` `TypeScript` `Spring Boot` `MySQL` |
-| [**Pet Shop Management System**](https://github.com/PhamNhatHoang/pet-shop-management-system) | E-commerce and store operations for pets, products, orders, payments, users, and roles. | `Java 17` `Spring Boot` `SQL Server` `Thymeleaf` |
-| [**EduSys**](https://github.com/PhamNhatHoang/student-management-system) | Desktop training and student management system with authentication, reporting, and role-based workflows. | `Java Swing` `JDBC` `SQL Server` |
-| [**Quiz Management System**](https://github.com/PhamNhatHoang/quiz-management-system) | Single-page learning and quiz website backed by a lightweight mock API. | `AngularJS` `Bootstrap` `JSON Server` |
-| [**Account File Generator**](https://github.com/PhamNhatHoang/account-file-generator) | Privacy-friendly browser utility for generating and converting structured account lists locally. | `HTML5` `CSS3` `JavaScript` |
+| [**VPS Manager**](https://github.com/PhamNhatHoang/vps-manager) | Ultra-light Windows VPS admin tool: resource monitoring, RDP port & credential management, auto RAM cleanup, tool installer, and Telegram login alerts. Runs without a .NET runtime. | `C#` `.NET 10` `Avalonia UI` `Native AOT` |
+| [**CineGo**](https://github.com/PhamNhatHoang/cinego) | Full-stack cinema platform: movie discovery, showtimes, seat booking, QR e-tickets, staff check-in, and admin reporting. | `Next.js` `TypeScript` `Spring Boot` `JWT` `MySQL` |
+| [**Pet Shop Management System**](https://github.com/PhamNhatHoang/pet-shop-management-system) | Graduation project — pet & product e-commerce with Google/Facebook OAuth2, online payment, orders, vouchers, and role-based admin. | `Java 17` `Spring Boot` `SQL Server` `Thymeleaf` |
+| [**EduSys**](https://github.com/PhamNhatHoang/student-management-system) | Desktop training management system: learners, courses, staff, permissions, and statistics. | `Java Swing` `JDBC` `SQL Server` |
+| [**Quiz Management System**](https://github.com/PhamNhatHoang/quiz-management-system) | Single-page quiz and learning website backed by a lightweight mock API. | `AngularJS` `Bootstrap` `JSON Server` |
+| [**Personal Portfolio**](https://github.com/PhamNhatHoang/personal-portfolio) | Responsive single-page portfolio with routing, animations, and typing effects. | `AngularJS` `HTML5` `CSS3` |
+| [**Account File Generator**](https://github.com/PhamNhatHoang/account-file-generator) | Privacy-friendly browser utility that generates and converts account lists entirely on the client. | `HTML5` `CSS3` `JavaScript` |
+
+## Learning journey — Java BC12
+
+Hands-on repositories from my Java backend course, from core syntax up to Spring Data JPA:
+
+[`java-bc12-exercises`](https://github.com/PhamNhatHoang/java-bc12-exercises) →
+[`java-bc12-servlet`](https://github.com/PhamNhatHoang/java-bc12-servlet) →
+[`java-bc12-spring-boot`](https://github.com/PhamNhatHoang/java-bc12-spring-boot) →
+[`java-bc12-spring-boot-ioc`](https://github.com/PhamNhatHoang/java-bc12-spring-boot-ioc) →
+[`java-bc12-spring-boot-jpa`](https://github.com/PhamNhatHoang/java-bc12-spring-boot-jpa)
 
 <div align="center">
 
@@ -90,7 +103,7 @@ Have an idea involving desktop software, web platforms, VPS tooling, or automati
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/@PhamNhatHoang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhamNhatHoang)
-[![Website](https://img.shields.io/badge/CloudVPSViet-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudvpsviet.com)
+[![Website](https://img.shields.io/badge/CloudSun.vn-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudsun.vn)
 
 <sub>Build thoughtfully. Ship reliably.</sub>
 
